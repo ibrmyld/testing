@@ -1,0 +1,35 @@
+{
+  "demo@blogx.com": {
+    "id": 1,
+    "email": "demo@blogx.com",
+    "firstName": "Demo",
+    "lastName": "User",
+    "hashed_password": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+    "phone": "+90 555 123 45 67",
+    "avatar": null,
+    "joinDate": "2024-01-01T00:00:00",
+    "isActive": true
+  },
+  "demo@gamil.com": {
+    "id": 2,
+    "email": "demo@gamil.com",
+    "firstName": "demo",
+    "lastName": "demos",
+    "hashed_password": "$2b$12$XA9Caq8M7hqklfJ0m7DH4eX5fFukiFuQKFeCEb7cr1JSJXgPobODa",
+    "phone": "",
+    "avatar": "http://localhost:8000/uploads/avatar_2_1749383038.webp",
+    "joinDate": "2025-06-08T14:29:49.484432",
+    "isActive": true
+  },
+  "demo1@gmail.com": {
+    "id": 3,
+    "email": "demo1@gmail.com",
+    "firstName": "demos",
+    "lastName": "demo",
+    "hashed_password": "$2b$12$j/Wyg/qhVMZNuUyMgFMdyefL0rihV30kZxaFBYZY.DKtk2stuarEm",
+    "phone": "",
+    "avatar": "http://localhost:8000/uploads/avatar_3_1749384474.gif",
+    "joinDate": "2025-06-08T15:07:29.918645",
+    "isActive": true
+  }
+}
